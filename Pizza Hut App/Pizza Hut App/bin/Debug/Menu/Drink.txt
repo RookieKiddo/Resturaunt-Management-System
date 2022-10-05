@@ -1,0 +1,13 @@
+None=0
+Pepsi-Pitcher=100
+Pepsi-250ml=50
+Pepsi-1ltr=80
+Pepsi-1.5ltr=110
+7UP-Pitcher=100
+7UP-250ml=50
+7UP-1ltr=80
+7UP-1.5ltr=110
+Miranda-Pitcher=100
+Miranda-250ml=50
+Miranda-1ltr=80
+Miranda1.5ltr=110

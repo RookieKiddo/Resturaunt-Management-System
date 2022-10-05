@@ -1,0 +1,1 @@
+100#Dine-In##0##Chicken Supreme##Small##1##Chicken Fajita##Large##0##Pepsi-1ltr##80##1##Medium##200#101#Dine-In##0##Afghani Tikka##Medium##1##Afghani Tikka##Medium##0##Pepsi-Pitcher##100##1##Small##100#102#Dine-In#3#0##Cheese Lover##Small##1##Chicken Tikka##Large##0##Pepsi-Pitcher##100##1##Pepsi-Pitcher##100#
